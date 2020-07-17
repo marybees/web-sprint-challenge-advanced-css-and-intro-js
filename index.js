@@ -360,5 +360,25 @@ function randomize(artistArray) {
 
 console.log(randomize (artists));
 
-
  /* STRETCH 3: Use advanced array methods (.map, .reduce, .filer) to refactor your MVP code (create an array of all artists born in the 1900s with .filter, for example) */
+
+// function getNationalities(artistArray) {
+//     let NationalitiesArray = artistArray.filter(function(artistArray) {
+//     return artistArray.nationality;
+//     });
+// }
+
+// console.log(getNationalities(artists));
+
+// function get20s(artistArray){
+//   let bornIn20thCenturyArray = [];
+//   for (i = 0; i < artistArray.length; i++) {
+//     let yearBorn = artistArray[i].years.split(" ");
+//     yearBorn = yearBorn[0];
+//     if (yearBorn >= 1900) {
+//       bornIn20thCenturyArray.push(artistArray[i].name);
+//     }
+//   }
+//   return bornIn20thCenturyArray
+// }
+// console.log(get20s(artists));
