@@ -24,6 +24,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. How would you describe acessibility on the web to someone new to programming?
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+<!-- Use semantic HTML (sections, headings, navgation forms etc.), include alternative text for images(alt="Flowers"), declare language in the html (<html lang = "en">), use clear language -->
 3. How would you explain the concept of a variable to someone new to programming?
 4. What is the purpose of using functions in code?
 
