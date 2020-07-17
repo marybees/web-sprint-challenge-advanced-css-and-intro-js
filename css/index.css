@@ -21,9 +21,9 @@ vertical-align: baseline;
 }
 /*GENERAL STYLES*/
 
-* {
+/* * {
     border: 1px solid red !important;
-}
+} */
 
 html{
     font-size:62.5%;
@@ -171,7 +171,10 @@ nav a {
 }	
 
 /*Artists Section Styles*/
-  .artists-container {
+section.artists-container {
+
+}  
+.artists-container {
     display:flex;
     flex-direction: column;
     justify-content: center;
