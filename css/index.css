@@ -171,9 +171,6 @@ nav a {
 }	
 
 /*Artists Section Styles*/
-section.artists-container {
-
-}  
 .artists-container {
     display:flex;
     flex-direction: column;
